@@ -1,4 +1,4 @@
-# Olá, prazer. sou Thiago Amorim 👋
+# Olá, prazer. sou Thiago Amorim <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="50px" heigth="50px">
 ## Breve Resumo sobre mim
 Atualmente sou um universitário cursando ADS (Análise e Desenvolvimento de Sistemas), porém me aprofundo no mundo dos códigos e da programação já fazem 5 anos.
 Sou apaixonado em programação e geralmente foco no back-end, contudo não vejo problemas em ser full stack.
@@ -27,3 +27,8 @@ Sou apaixonado em programação e geralmente foco no back-end, contudo não vejo
   <a href="https://www.youtube.com/@foxhoth4886"><img src="https://images.icon-icons.com/1211/PNG/512/1491579609-yumminkysocialmedia08_83079.png" width="50px" heigth="50px"></a>
   <a href="https://br.pinterest.com/thiagoafferreira127/"><img src="https://images.icon-icons.com/808/PNG/512/pinterest_icon-icons.com_66097.png" width="50px" heigth="50px"></a>
 </div>
+<br>
+
+<img src="https://giffiles.alphacoders.com/212/212868.gif" width="1000px" heigth="1240px">
+
+#### arte por Anasbdin
